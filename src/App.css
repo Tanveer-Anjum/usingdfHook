@@ -1,0 +1,66 @@
+#root{
+  display: flex;
+justify-content: center;
+
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.box {
+  display: block;
+  width: 38%;
+  padding: 12px;
+  height: 250px;
+  border-radius: 15px;
+  background-color: #000000b8;
+  margin-top: 50px;
+}
+.input {
+  width: 450px;
+  height: 30px;
+  background-color: #0000006b;
+  display: flex;
+  color: white;
+  outline: none;
+  justify-content: center;
+  margin: 0px 14px;
+  border-radius: 9px;
+  font-size: medium;
+}
+.heading {
+  color: coral;
+  display: flex;
+  font-family: system-ui;
+  margin: 35px 140px;
+}
+.copy {
+  font-family: system-ui;
+  font-size: medium;
+  width: 100px;
+  background: #00000075;
+  height: 35px;
+  border-radius: 11px;
+  color: white;
+}
+.copy1 {
+  display: flex;
+  height: 31px;
+  margin: 0px 0px;
+}
+.range1{
+  margin-top: 60px;
+}
+.length {
+  color: coral;
+  margin: 0px 15px;
+  font-size: medium;
+  font-family: cursive;
+}
+.num {
+  color: coral;
+  font-family: cursive;
+  font-size: medium;
+  margin: 0px 13px;
+}
